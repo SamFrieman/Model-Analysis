@@ -1,0 +1,85 @@
+[
+  {
+    "player": "TenZ",
+    "n_sims": 10000,
+    "stats": {
+      "kills": {
+        "line": 17.5,
+        "ev": 19.86,
+        "p_over": 60.9,
+        "p_under": 39.1,
+        "volatility": "High",
+        "confidence": "Medium",
+        "std": 7.01,
+        "p5": 9.0,
+        "p95": 32.0
+      },
+      "acs": {
+        "line": 220.0,
+        "ev": 259.63,
+        "p_over": 93.9,
+        "p_under": 6.1,
+        "volatility": "Low",
+        "confidence": "High",
+        "std": 30.04,
+        "p5": 213.46,
+        "p95": 317.73
+      },
+      "kd": {
+        "line": 1.15,
+        "ev": 1.34,
+        "p_over": 45.4,
+        "p_under": 54.6,
+        "volatility": "High",
+        "confidence": "Low",
+        "std": 1.31,
+        "p5": 0.4,
+        "p95": 3.0
+      },
+      "adr": {
+        "line": 140.0,
+        "ev": 173.58,
+        "p_over": 95.3,
+        "p_under": 4.7,
+        "volatility": "Low",
+        "confidence": "High",
+        "std": 20.91,
+        "p5": 141.76,
+        "p95": 212.6
+      },
+      "kast": {
+        "line": 70.0,
+        "ev": 70.86,
+        "p_over": 54.1,
+        "p_under": 45.9,
+        "volatility": "Low",
+        "confidence": "Low",
+        "std": 7.72,
+        "p5": 58.52,
+        "p95": 86.77
+      },
+      "hs_pct": {
+        "line": 22.0,
+        "ev": 24.04,
+        "p_over": 83.9,
+        "p_under": 16.1,
+        "volatility": "Low",
+        "confidence": "High",
+        "std": 2.85,
+        "p5": 19.56,
+        "p95": 29.4
+      },
+      "assists": {
+        "line": 4.5,
+        "ev": 3.21,
+        "p_over": 27.6,
+        "p_under": 72.4,
+        "volatility": "High",
+        "confidence": "Medium",
+        "std": 2.68,
+        "p5": 0.0,
+        "p95": 8.0
+      }
+    }
+  }
+]

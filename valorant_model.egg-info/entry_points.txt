@@ -1,0 +1,2 @@
+[console_scripts]
+val = valorant_model.main:main

@@ -1,0 +1,8 @@
+player,stat,line,ev,p_over,p_under,std,p5,p95,volatility,confidence,n_sims
+TenZ,kills,17.5,19.86,60.9,39.1,7.01,9.0,32.0,High,Medium,10000
+TenZ,acs,220.0,259.63,93.9,6.1,30.04,213.46,317.73,Low,High,10000
+TenZ,kd,1.15,1.34,45.4,54.6,1.31,0.4,3.0,High,Low,10000
+TenZ,adr,140.0,173.58,95.3,4.7,20.91,141.76,212.6,Low,High,10000
+TenZ,kast,70.0,70.86,54.1,45.9,7.72,58.52,86.77,Low,Low,10000
+TenZ,hs_pct,22.0,24.04,83.9,16.1,2.85,19.56,29.4,Low,High,10000
+TenZ,assists,4.5,3.21,27.6,72.4,2.68,0.0,8.0,High,Medium,10000

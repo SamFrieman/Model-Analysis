@@ -1,0 +1,2 @@
+player,stat,line,ev,p_over,p_under,std,p5,p95,volatility,confidence,n_sims
+Aspas,kills,19.5,19.19,45.1,54.9,6.87,9.0,31.0,High,Low,20000

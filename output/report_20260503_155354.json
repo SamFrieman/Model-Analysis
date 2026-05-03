@@ -1,0 +1,19 @@
+[
+  {
+    "player": "Aspas",
+    "n_sims": 20000,
+    "stats": {
+      "kills": {
+        "line": 19.5,
+        "ev": 19.19,
+        "p_over": 45.1,
+        "p_under": 54.9,
+        "volatility": "High",
+        "confidence": "Low",
+        "std": 6.87,
+        "p5": 9.0,
+        "p95": 31.0
+      }
+    }
+  }
+]
